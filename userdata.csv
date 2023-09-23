@@ -1,7 +1,7 @@
 cin,holder,domain,startDate,endDate,college,course,certificateLink,valid
 1234,John Doe,example.com,01-01-2023,01-02-2023,JBIT,NA,https://www.google.com,TRUE
 5678,Jane Smith,example.org,15-02-2023,15-03-2023,NA,,,TRUE
-4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,,TRUE
+4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,https://www.google.com,TRUE
 CMA0AA03,Gagandeep Singh,Full Stack Development,10-09-2023,10-10-2023,"Maharaja Ganga Singh University, Bikaner",BCA,,TRUE
 CMA0AA02,ASWINI SINGH,Python Development,10-09-2023,10-10-2023,JAGAN'S DEGREE AND PG COLLEGE,MSC,,TRUE
 CMA0AA04,Subhan Ali,Web Developement,10-09-2023,10-10-2023,National University of Modern Languages,Undergraduate,,TRUE
