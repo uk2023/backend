@@ -1,37 +1,37 @@
-cin,holder,domain,startDate,endDate,college,course,valid
-1234,John Doe,example.com,01-01-2023,01-02-2023,JBIT,,true
-5678,Jane Smith,example.org,15-02-2023,15-03-2023,NA,true
-4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,true
-CMA0AA03,Gagandeep Singh,Full Stack Development,10-09-2023,10-10-2023,"Maharaja Ganga Singh University, Bikaner",BCA,true
-CMA0AA02,ASWINI SINGH,Python Development,10-09-2023,10-10-2023,JAGAN'S DEGREE AND PG COLLEGE,MSC,true
-CMA0AA04,Subhan Ali,Web Developement,10-09-2023,10-10-2023,National University of Modern Languages,Undergraduate,true
-CMA0AA05,Parth Kadam,Full Stack Development,10-09-2023,10-10-2023,KIT's College of Engineering,Bachelor of Technology,true
-CMA0AA06,Abdul Wadood,Web Developement,10-09-2023,10-10-2023,Ncba,Bscs,true
-CMA0AA01,Divya J s,Web Developement,10-09-2023,10-10-2023,Nil,B.E,true
-CMA0AA07,Abdullah Imran,Web Developement,10-09-2023,10-10-2023,LLU,Bachelor in computer science,true
-CMA0AA08,Muhammad Sameel,Web Developement,10-09-2023,10-10-2023,Minhaj University Lahore,BS -IT,true
-CMA0AA09,Ritik sharma,JAVA Development,10-09-2023,10-10-2023,Delhi University,Bachelors in Arts,true
-CMA0AA10,Muhammed Jaseel J,Python Development,10-09-2023,10-10-2023,University of Calicut,BCA,true
-CMA0AA11,Oshani Sharma,Full Stack Development,10-09-2023,10-10-2023,Aggarwal College Ballabgarh,Bachelor of Software development,true
-CMA0AA12,Pankaj Shinde,Python Development,10-09-2023,10-10-2023,NA ,BCA,true
-CMA0AA13,Yash Rasniya ,Full Stack Development,20-09-2023,20-10-2023,Institute of technology ,Btech,true
-CMA0AA14,K JITHENDHAR REDDY,Full Stack Development,20-09-2023,20-10-2023,Pallavi Engineering College ,Btech ,true
-CMA0AA15,aakash kumar,Web Developement,20-09-2023,20-10-2023,JMIT Radaur Haryana,btech,true
-CMA0AA16,Shweta Singh,Web Developement,20-09-2023,20-10-2023,Amity University,MCA,true
-CMA0AA17,Nitesh Saxena ,Full Stack Development,20-09-2023,20-10-2023,Shri Siddhi Vinayak Institute of Technology ,B.tech ,true
-CMA0AA18,Harsh Phutela,Web Developement,20-09-2023,20-10-2023,JMIT,Btech,true
-CMA0AA19,Khushank Gulati ,Web Developement,20-09-2023,20-10-2023,Seth jai parkash mukand lal institute of engineering and technology ,Btech ,true
-CMA0AA20,Anusi ,Web Developement,20-09-2023,20-10-2023,Jmit,B.tech,true
-CMA0AA21,Vaishnavi Kadam,Full Stack Development,20-09-2023,20-10-2023,Usha Mittal Institute of Technology ,B.Tech,true
-CMA0AA22,Atchi Vinod ,Web Developement,20-09-2023,20-10-2023,Geethanjali institute of P.G Studies ,MCA,true
-CMA0AA23,Samama,Machine Learning,20-09-2023,20-10-2023,National University Of Sciences And Technology,NA,true
-CMA0AA24,Mahima Pandey,Web Developement,20-09-2023,20-10-2023,Roorkee Institute of Technology,Btech,true
-CMA0AA25,Satyam,Web Developement,20-09-2023,20-10-2023,Seth Jai Parkash Mukand Lal Institute Of Engineering And Technology,B.Tech,true
-CMA0AA26,Ajas Mohammed,Python Development,20-09-2023,20-10-2023,,Diploma,true
-CMA0AA27,Gourav kumar ,Full Stack Development,20-09-2023,20-10-2023,National institute of technology patna ,Btech,true
-CMA0AA28,Bushra Younas,Web Developement,20-09-2023,20-10-2023,PMAS Arid Agriculture University Rawalpindi,BS(IT),true
-CMA0AA29,Khadar Basha,Full Stack Development,20-09-2023,20-10-2023,Sree Vidyanikethan College,BTech,true
-CMA0AA30,Nagesh Shinde,Python Development,20-09-2023,20-10-2023,Government polytechnic Hingoli ,Diploma ,true
-CMA0AA31,Ayush Saha,Full Stack Development,20-09-2023,20-10-2023,Modi Institue Of Technology,B-Tech,true
-CMA0AA32,Bhakti Gangaram Gore,Web Developement,20-09-2023,20-10-2023,Rajendra Mane college of engineering and technology,BE,true
-CMA0AA33,Prity kumari ,Machine Learning,20-09-2023,20-10-2023,Shivalik college of engineering ,Btech ,true
+cin,holder,domain,startDate,endDate,college,course,certificateLink,valid
+1234,John Doe,example.com,01-01-2023,01-02-2023,JBIT,NA,https://www.google.com,TRUE
+5678,Jane Smith,example.org,15-02-2023,15-03-2023,NA,,,TRUE
+4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,,TRUE
+CMA0AA03,Gagandeep Singh,Full Stack Development,10-09-2023,10-10-2023,"Maharaja Ganga Singh University, Bikaner",BCA,,TRUE
+CMA0AA02,ASWINI SINGH,Python Development,10-09-2023,10-10-2023,JAGAN'S DEGREE AND PG COLLEGE,MSC,,TRUE
+CMA0AA04,Subhan Ali,Web Developement,10-09-2023,10-10-2023,National University of Modern Languages,Undergraduate,,TRUE
+CMA0AA05,Parth Kadam,Full Stack Development,10-09-2023,10-10-2023,KIT's College of Engineering,Bachelor of Technology,,TRUE
+CMA0AA06,Abdul Wadood,Web Developement,10-09-2023,10-10-2023,Ncba,Bscs,,TRUE
+CMA0AA01,Divya J s,Web Developement,10-09-2023,10-10-2023,Nil,B.E,,TRUE
+CMA0AA07,Abdullah Imran,Web Developement,10-09-2023,10-10-2023,LLU,Bachelor in computer science,,TRUE
+CMA0AA08,Muhammad Sameel,Web Developement,10-09-2023,10-10-2023,Minhaj University Lahore,BS -IT,,TRUE
+CMA0AA09,Ritik sharma,JAVA Development,10-09-2023,10-10-2023,Delhi University,Bachelors in Arts,,TRUE
+CMA0AA10,Muhammed Jaseel J,Python Development,10-09-2023,10-10-2023,University of Calicut,BCA,,TRUE
+CMA0AA11,Oshani Sharma,Full Stack Development,10-09-2023,10-10-2023,Aggarwal College Ballabgarh,Bachelor of Software development,,TRUE
+CMA0AA12,Pankaj Shinde,Python Development,10-09-2023,10-10-2023,NA ,BCA,,TRUE
+CMA0AA13,Yash Rasniya ,Full Stack Development,20-09-2023,20-10-2023,Institute of technology ,Btech,,TRUE
+CMA0AA14,K JITHENDHAR REDDY,Full Stack Development,20-09-2023,20-10-2023,Pallavi Engineering College ,Btech ,,TRUE
+CMA0AA15,aakash kumar,Web Developement,20-09-2023,20-10-2023,JMIT Radaur Haryana,btech,,TRUE
+CMA0AA16,Shweta Singh,Web Developement,20-09-2023,20-10-2023,Amity University,MCA,,TRUE
+CMA0AA17,Nitesh Saxena ,Full Stack Development,20-09-2023,20-10-2023,Shri Siddhi Vinayak Institute of Technology ,B.tech ,,TRUE
+CMA0AA18,Harsh Phutela,Web Developement,20-09-2023,20-10-2023,JMIT,Btech,,TRUE
+CMA0AA19,Khushank Gulati ,Web Developement,20-09-2023,20-10-2023,Seth jai parkash mukand lal institute of engineering and technology ,Btech ,,TRUE
+CMA0AA20,Anusi ,Web Developement,20-09-2023,20-10-2023,Jmit,B.tech,,TRUE
+CMA0AA21,Vaishnavi Kadam,Full Stack Development,20-09-2023,20-10-2023,Usha Mittal Institute of Technology ,B.Tech,,TRUE
+CMA0AA22,Atchi Vinod ,Web Developement,20-09-2023,20-10-2023,Geethanjali institute of P.G Studies ,MCA,,TRUE
+CMA0AA23,Samama,Machine Learning,20-09-2023,20-10-2023,National University Of Sciences And Technology,NA,,TRUE
+CMA0AA24,Mahima Pandey,Web Developement,20-09-2023,20-10-2023,Roorkee Institute of Technology,Btech,,TRUE
+CMA0AA25,Satyam,Web Developement,20-09-2023,20-10-2023,Seth Jai Parkash Mukand Lal Institute Of Engineering And Technology,B.Tech,,TRUE
+CMA0AA26,Ajas Mohammed,Python Development,20-09-2023,20-10-2023,,Diploma,,TRUE
+CMA0AA27,Gourav kumar ,Full Stack Development,20-09-2023,20-10-2023,National institute of technology patna ,Btech,,TRUE
+CMA0AA28,Bushra Younas,Web Developement,20-09-2023,20-10-2023,PMAS Arid Agriculture University Rawalpindi,BS(IT),,TRUE
+CMA0AA29,Khadar Basha,Full Stack Development,20-09-2023,20-10-2023,Sree Vidyanikethan College,BTech,,TRUE
+CMA0AA30,Nagesh Shinde,Python Development,20-09-2023,20-10-2023,Government polytechnic Hingoli ,Diploma ,,TRUE
+CMA0AA31,Ayush Saha,Full Stack Development,20-09-2023,20-10-2023,Modi Institue Of Technology,B-Tech,,TRUE
+CMA0AA32,Bhakti Gangaram Gore,Web Developement,20-09-2023,20-10-2023,Rajendra Mane college of engineering and technology,BE,,TRUE
+CMA0AA33,Prity kumari ,Machine Learning,20-09-2023,20-10-2023,Shivalik college of engineering ,Btech ,,TRUE
