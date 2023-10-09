@@ -1,18 +1,18 @@
 cin,holder,domain,startDate,endDate,college,course,certificateLink,valid,offerLeter
 1234,John Doe,example.com,01-01-2023,01-02-2023,JBIT,NA,https://drive.google.com/file/d/1yazYb66bsFkRhREV5wRAazzug7lsodf-/preview,TRUE,
 5678,Jane Smith,example.org,15-02-2023,15-03-2023,NA,,https://drive.google.com/file/d/1J1emqUAhBnd2kPydej6_MOXaLBDqNE37/preview,TRUE,https://drive.google.com/file/d/1yazYb66bsFkRhREV5wRAazzug7lsodf-/preview
-4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,https://www.google.com,TRUE,
+4567,Ujjwal Kumar,Web Developement,10-09-2023,10-10-2023,"Institute of Technology Gopeshwar, Uttrakhand",B.Tech,https://www.google.com,TRUE,https://drive.google.com/file/d/1yazYb66bsFkRhREV5wRAazzug7lsodf-/preview
 CMA0AA03,Gagandeep Singh,Full Stack Development,10-09-2023,10-10-2023,"Maharaja Ganga Singh University, Bikaner",BCA,,TRUE,
-CMA0AA02,ASWINI SINGH,Python Development,10-09-2023,10-10-2023,JAGAN'S DEGREE AND PG COLLEGE,MSC,https://drive.google.com/file/d/1J1emqUAhBnd2kPydej6_MOXaLBDqNE37/preview,TRUE,https://drive.google.com/file/d/18H0L92BmpVDfHyRrRoA_RKnKa1hIC5df/preview
+CMA0AA02,ASWINI SINGH,Python Development,10-09-2023,10-10-2023,JAGAN'S DEGREE AND PG COLLEGE,MSC,https://drive.google.com/file/d/1J1emqUAhBnd2kPydej6_MOXaLBDqNE37/preview,TRUE,https://drive.google.com/file/d/1J1emqUAhBnd2kPydej6_MOXaLBDqNE37/preview
 CMA0AA04,Subhan Ali,Web Developement,10-09-2023,10-10-2023,National University of Modern Languages,Undergraduate,,TRUE,
 CMA0AA05,Parth Kadam,Full Stack Development,10-09-2023,10-10-2023,KIT's College of Engineering,Bachelor of Technology,,TRUE,
-CMA0AA06,Abdul Wadood,Web Developement,10-09-2023,10-10-2023,Ncba,Bscs,,TRUE,
+CMA0AA06,Abdul Wadood,Web Developement,10-09-2023,10-10-2023,Ncba,Bscs,https://drive.google.com/file/d/1b99HXtIGNW0V9nDHlZcJrnmYIn-nZ1T7/preview,TRUE,https://drive.google.com/file/d/1b99HXtIGNW0V9nDHlZcJrnmYIn-nZ1T7/preview
 CMA0AA01,Divya J s,Web Developement,10-09-2023,10-10-2023,Nil,B.E,,TRUE,
 CMA0AA07,Abdullah Imran,Web Developement,10-09-2023,10-10-2023,LLU,Bachelor in computer science,,TRUE,
 CMA0AA08,Muhammad Sameel,Web Developement,10-09-2023,10-10-2023,Minhaj University Lahore,BS -IT,,TRUE,
-CMA0AA09,Ritik sharma,JAVA Development,10-09-2023,10-10-2023,Delhi University,Bachelors in Arts,https://drive.google.com/file/d/1q6s3XbWHPcBItrPILB6H5wGz8IY05_il/preview,TRUE,
+CMA0AA09,Ritik sharma,JAVA Development,10-09-2023,10-10-2023,Delhi University,Bachelors in Arts,https://drive.google.com/file/d/1q6s3XbWHPcBItrPILB6H5wGz8IY05_il/preview,TRUE,https://drive.google.com/file/d/1q6s3XbWHPcBItrPILB6H5wGz8IY05_il/preview
 CMA0AA10,Muhammed Jaseel J,Python Development,10-09-2023,10-10-2023,University of Calicut,BCA,,TRUE,
-CMA0AA11,Oshani Sharma,Full Stack Development,10-09-2023,10-10-2023,Aggarwal College Ballabgarh,Bachelor of Software development,,TRUE,
+CMA0AA11,Oshani Sharma,Full Stack Development,10-09-2023,10-10-2023,Aggarwal College Ballabgarh,Bachelor of Software development,https://drive.google.com/file/d/120b3KiZrSep4DzZdN-Y444U2JWlwB-1U/preview,TRUE,https://drive.google.com/file/d/120b3KiZrSep4DzZdN-Y444U2JWlwB-1U/preview
 CMA0AA12,Pankaj Shinde,Python Development,10-09-2023,10-10-2023,NA ,BCA,,TRUE,
 CMA0AA13,Yash Rasniya ,Full Stack Development,20-09-2023,20-10-2023,Institute of technology ,Btech,,TRUE,
 CMA0AA14,K JITHENDHAR REDDY,Full Stack Development,20-09-2023,20-10-2023,Pallavi Engineering College ,Btech ,,TRUE,
